@@ -83,7 +83,7 @@ body {
 
 /* SECCIÓN HERO (Principal - Campus Digital con Foto) - MODIFICACIÓN CLAVE AQUÍ */
 .hero-section {
-    background-image: url('img/img1.jpg'); 
+    background-image: url('img1.jpg'); 
     
     /* background-size: cover; */ /* Comentamos 'cover' */
     background-size: 100% 100%; /* <--- Nuevo: Estira la imagen para llenar el espacio */
@@ -262,4 +262,5 @@ body {
     text-align: center;
     padding: 10px var(--content-padding-x); 
     border-top: 1px solid #444; 
+
 }
